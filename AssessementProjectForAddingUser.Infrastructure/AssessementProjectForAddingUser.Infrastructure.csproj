@@ -7,9 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="DbContext\" />
     <Folder Include="ImplementingInterface\Services\" />
     <Folder Include="ImplementingInterface\Repositorys\" />
-    <Folder Include="DbContext\" />
   </ItemGroup>
 
 </Project>
